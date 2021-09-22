@@ -1,0 +1,195 @@
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+h2 {
+  margin: 0px;
+  padding-top: 48px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+
+/* header */
+
+header {
+  background-color: #007765;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+}
+.header-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-logo {
+  margin: 20px 0px 20px 55px;
+}
+.header-menu {
+  float: right;
+  list-style: none;
+  margin: 27px 55px 28px 0px;
+}
+.header-menu li {
+  display: inline-block;
+}
+.header-menu li a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #fff;
+  margin: 0px 8px 0px 8px;
+  text-decoration: none;
+}
+.header-menu span {
+  margin: 0px 8px 0px 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #fff;
+}
+
+/* jumbotron */
+
+.jumbotron {
+  background-image: url(../img/image1.jpg);
+  background-size: cover;
+
+  padding: 160px 55px 160px 55px;
+}
+.jumbotron-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #fff;
+}
+
+/* the-problem */
+
+.the-problem {
+  background-color: #eee;
+  padding: 15px 55px 90px 55px;
+}
+.the-problem-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000;
+}
+
+/* hero */
+
+.hero {
+  background-image: url(../img/image2.jpg);
+  background-size: cover;
+  padding: 125px 165px 125px 165px;
+}
+.hero-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #fff;
+}
+
+/* ppc */
+
+.ppc {
+  padding: auto 55px auto 55px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000;
+}
+.ppc img {
+  margin: 16px 50px 35px auto;
+}
+.ppc-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px 55px 90px 55px;
+}
+.ppc .ppc-logo {
+  float: left;
+}
+
+/* the-team */
+
+.the-team {
+  background-color: #eee;
+  padding: auto 55px auto 55px;
+}
+.the-team-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.the-team table {
+  width: 100%;
+  padding: 30px 55px 95px 55px;
+}
+.the-team td {
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+}
+.the-team .name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+}
+.the-team .proffesion {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+
+/* footer */
+
+footer {
+  background-color: #333;
+  padding: 50px 55px 65px 55px;
+}
+.footer-content {
+  width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}
